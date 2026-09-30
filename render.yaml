@@ -2,5 +2,5 @@ services:
   - type: web
     name: alfred-lite
     env: python
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install -r requirements-lite.txt
     startCommand: uvicorn server.api:app --host 0.0.0.0 --port $PORT
