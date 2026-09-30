@@ -1,0 +1,46 @@
+groq
+python-dotenv
+google-genai
+tavily-python
+requests
+plyer
+edge-tts
+pygame
+faster-whisper
+sounddevice
+numpy
+scipy
+openwakeword
+psutil
+pycaw
+comtypes
+pyautogui
+Pillow
+beautifulsoup4
+playwright
+pypdf
+python-docx
+openpyxl
+pandas
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+spotipy
+fastapi
+uvicorn
+# Audio and Voice
+#   pydub 
+#   SpeechRecognition 
+#   pyttsx3 (for offline fallback)
+#   playsound (for playing sounds/sounds)
+#   pyaudio
+#   ReportLab (for PDFs, if any)
+# AI and NLP
+#   transformers (Hugging Face) 
+#   sentence-transformers (embeddings)
+#   torch or tensorflow (for running models)
+#   langchain or llama-index (optional, for orchestrating LLMs)
+# API clients
+#   requests
+#   openai, groq, oranthropic (as needed for LLM APIs)
+#   google-generativeai (for Gemini)
