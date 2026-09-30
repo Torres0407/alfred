@@ -4,3 +4,5 @@ __pycache__/
 credentials.json
 token.json
 .spotify_cache
+models/
+browser_profile/
